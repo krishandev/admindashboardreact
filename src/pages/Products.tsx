@@ -2,7 +2,7 @@ import {ReactElement, useState, useCallback} from 'react'
 
 import AdminSidebar from "../components/AdminSidebar"
 import TableHOC from '../components/TableHOC';
-import { Column, useSortBy, usePagination } from 'react-table';
+import { Column } from 'react-table';
 import { Link } from 'react-router-dom';
 import { FaPlus } from 'react-icons/fa'
 

@@ -1,4 +1,4 @@
-import React, { ReactElement, useCallback, useState } from 'react'
+import { ReactElement, useCallback, useState } from 'react'
 import { Column } from 'react-table';
 import TableHOC from '../components/TableHOC';
 import AdminSidebar from '../components/AdminSidebar';

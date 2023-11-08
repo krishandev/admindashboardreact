@@ -5,7 +5,7 @@ import { IoIosPeople } from 'react-icons/io'
 import { AiFillFileText } from 'react-icons/ai'
 import { IconType } from 'react-icons'
 import {FaChartBar, FaChartPie, FaChartLine, FaStopwatch, FaGamepad} from 'react-icons/fa'
-import React, { Dispatch, SetStateAction, useEffect, useState } from 'react';
+import  { Dispatch, SetStateAction, useEffect, useState } from 'react';
 import { HiMenuAlt4 } from 'react-icons/hi';
 
 const AdminSidebar = () => {
